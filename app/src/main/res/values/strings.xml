@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MITP4</string>
+    <string name="notes_text">Notes</string>
+    <string name="add_note">Add Note</string>
+    <string name="delete_note">Add Note</string>
+    <string name="save_and_close">Save and close</string>
+    <string name="note_text">Note text</string>
+</resources>
